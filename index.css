@@ -45,3 +45,8 @@ footer {
   flex-basis: 100px;
   flex-grow: 1;
 }
+
+.setWidth2 {
+  flex-basis: 100px;
+  flex-grow: 2;
+}
