@@ -48,5 +48,5 @@ footer {
 }
 
 .alignTest {
-  align-self: flex-end;
+  order: 3;
 }
