@@ -47,3 +47,6 @@ footer {
   flex: auto;
 }
 
+.alignTest {
+  align-self: flex-end;
+}
